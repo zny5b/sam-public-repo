@@ -1,4 +1,4 @@
 
-const testKey: string = "A3-ASWWYB-798JRY-LJVD4-23DC2-86TVM-H43EB";
+const testKey: string = "AKIALALEMEL33243OKIA";
 
 console.log("Key:", testKey);
